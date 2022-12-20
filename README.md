@@ -4,6 +4,9 @@
 + Java17
 + SpringBoot 3.0.0
 
+### IDE
++ Intellij
+
 ### Build
 + Gradle
 
